@@ -1,4 +1,4 @@
-//.cpp file to implement the Liked List class
+//.cpp file to implement the Binary Search Tree
 
 #include<iostream>
 #include"BST.h"
