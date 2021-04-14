@@ -4,7 +4,6 @@
 #define SPELL
 using namespace std;
 
-
 class Spell_Correcter
 {
 private:
